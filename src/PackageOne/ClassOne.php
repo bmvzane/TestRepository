@@ -1,6 +1,6 @@
 <?php
 
-namespace TestRepository/PackageOne;
+namespace TestRepository\PackageOne;
 
 class ClassOne
 {
