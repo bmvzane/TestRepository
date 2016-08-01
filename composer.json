@@ -1,5 +1,5 @@
 {
-    "name": "bmvzane/TestRepository",
+    "name": "bmvzane/testrepository",
     "description": "My test repo",
     "require": {
         "php": ">=5.5.9"
