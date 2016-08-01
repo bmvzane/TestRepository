@@ -6,7 +6,7 @@
     },
     "autoload": {
         "psr-4": {
-            "TestRepository\\PackageOne": ""
+            "TestRepository\\PackageOne\\": ""
         }
     },
     "minimum-stability": "dev"
