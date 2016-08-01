@@ -1,0 +1,13 @@
+{
+    "name": "bmvzane/TestRepository",
+    "description": "My test repo",
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "TestRepository\\": "src/TestRepository"
+        }
+    },
+    "minimum-stability": "dev"
+}
